@@ -4,7 +4,7 @@ here's some step for run the project (note: tested on php 8.1)
 ## How to run
 1. Clone Repository
 ```
-Git clone https://github.com/riskids/tech-test-detik.com.git
+Git clone https://github.com/riskids/technical-test-detikcom.git
 ```
 
 2. Install package
