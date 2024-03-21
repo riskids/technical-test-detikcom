@@ -31,14 +31,14 @@ Crete MySql Database named test_detikcom
 ./vendor/bin/phinx migrate -e development
 ```
 
-6. Run server
-```
-php -S localhost:8000
-```
-
-7. Update transaction
+6. Generate ticket
 ```
 php ./generate-ticket.php {event_id} {total_ticket}
+```
+
+7. Run server
+```
+php -S localhost:8000
 ```
 
 ## Documentation
