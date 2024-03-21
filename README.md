@@ -7,7 +7,8 @@ here's some step for run the project (note: tested on php 8.1)
 Git clone https://github.com/riskids/technical-test-detikcom.git
 ```
 
-2. Install package
+2. Install package <br>
+after cd to project folder then do:
 ``` 
 composer install 
 ```
